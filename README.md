@@ -1,12 +1,5 @@
 # CRooms
 
-- NodeJS
-- UUID
-- Express
-- SocketIO
-- WebRTC
-- PeerJS
-
 > A video conferencingapp, a zoom like clone
 
 [![NPM Version][npm-image]][npm-url]
@@ -22,8 +15,15 @@ One to two paragraph statement about your product and what it does.
 OS X & Linux:
 
 ```sh
-npm install my-crazy-module --save
+npm install 
 ```
+- NodeJS
+- UUID
+- Express
+- SocketIO
+- WebRTC
+- PeerJS
+
 
 Windows:
 
