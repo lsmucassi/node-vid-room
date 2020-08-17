@@ -1,4 +1,4 @@
-# node-vid-room
+# CRooms
 
 - NodeJS
 - UUID
@@ -6,8 +6,8 @@
 - SocketIO
 - WebRTC
 - PeerJS
-# Giyant
-> A website for the Giyant institute of science and technology
+
+> A video conferencingapp, a zoom like clone
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -63,12 +63,13 @@ npm test
 
 ## Meta
 
-Giyant – [@giyant_inc](https://twitter.com/giyant_inc) – info@giyant.com
-Giyant – [@giyant_inc](https://instagram.com/giyant_inc) – info@giyant.com
+lsmucassi – [@lsmucassi](https://twitter.com/lsmucassi)
+Bearded_Mucassi – [@bearded_mucassi](https://instagram.com/bearded_mucassi) 
+Giyant – [@giyant_inc](https://instagram.com/giyant_inc) 
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/giyantinc/](https://github.com/giyantinc/)
+[https://github.com/lsmucassi/](https://github.com/lsmucassi/)
 
 ## Contributing
 
